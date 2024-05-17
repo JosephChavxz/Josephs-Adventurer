@@ -1,9 +1,0 @@
-res://Game/Scene/GameScene.tscn
-res://Asset/VFX/Shader/Smoke.tres
-res://Asset/VFX/Shader/Alpha.tres
-res://Asset/Environment/Material/BladeShader.tres
-res://Asset/Characters/Sword/Blade_effect_material.tres
-res://Asset/Characters/NPC/npc_material.tres
-res://Asset/Environment/Material/Grass.tres
-res://Asset/Environment/Material/Grass_mainscene.tres
-res://Asset/Environment/Material/Grass_mainscene_02.tres
